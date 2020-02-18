@@ -8,7 +8,7 @@ require_once 'Utils.php';
 class Orange implements Provider
 {
     private $XML_PATH;
-    private static $TMP_PATH = "epg/";
+    private static $TMP_PATH = "epg/orange/";
     private static $CHANNELS_LIST;
     private static $CHANNELS_KEY;
 
