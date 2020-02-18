@@ -4,7 +4,7 @@ require_once 'Utils.php';
 class TVHebdo implements Provider
 {
     private $XML_PATH;
-    private static $TMP_PATH = "epg/tv_hebdo_";
+    private static $TMP_PATH = "epg/tv_hebdo/tv_hebdo_";
     private static $CHANNELS_LIST;
     private static $CHANNELS_KEY;
 
